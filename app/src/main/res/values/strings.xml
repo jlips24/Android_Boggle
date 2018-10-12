@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W5P3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">null</string>
+    <string name="instructions">Enter a word then hit submit</string>
+</resources>
